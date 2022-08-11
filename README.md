@@ -1,1 +1,1 @@
-![hola](https://images.app.goo.gl/11SRcLm5Nta3maha6)
+## print("el conocimiento es base")
